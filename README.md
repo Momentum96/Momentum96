@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/ESP-000000?style=flat-square&logo=ESPHome&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp;
 </p>
 <br/>
 
