@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLFlow&logoColor=white"/></a>&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></a>&nbsp;
