@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat-square&logo=PytorchLightning&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/∞ Superset-1B72BE?style=flat-square"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/∞ Apache Superset-1B72BE?style=flat-square"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>&nbsp;
   <br />
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp;
