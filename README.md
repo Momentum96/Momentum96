@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=50586C&height=150&section=header&text=>%20Geon%20Woo%20Jeon&fontSize=70&animation=fadeIn&fontColor=DCE2F0" />
 </div>
 
-<h3 align="center">🔨 Updating... 🔨</h3>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used in the field </p>
