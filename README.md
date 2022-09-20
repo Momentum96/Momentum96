@@ -34,7 +34,7 @@
 </p>
 <br/>
 
-<p align="center"> Techs that I've experienced at least once or studing </p>
+<p align="center"> Techs that I've experienced at least once or studying </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
