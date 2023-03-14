@@ -69,16 +69,20 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 src="https://github-readme-stats.vercel.app/api/?username=Momentum96&count_private=true&show_icons=true&theme=dark" />
   </a>
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momentum96&layout=compact&theme=dark" />
   </a>
+  -->
 </div>
 
 <br/>
 
+<h3 align="center">📘 Project 📘</h3>
+
 <div align="center">
-  <a href="https://github.com/Momentum96/ROK">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=ROK" />
+  <a href="https://github.com/Momentum96/Capstone">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Capstone" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/WITLAB_CasStreamer">
@@ -87,8 +91,28 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Momentum96/Capstone">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Capstone" />
+  <a href="https://github.com/Momentum96/auto_nl_system">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=auto_nl_system" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Momentum96/MachineLearning">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=MachineLearning" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Momentum96/banf_sendreceive">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=banf_sendreceive" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">🦱 Personal 🧑‍🦱</h3>
+
+<div align="center">
+  <a href="https://github.com/Momentum96/ROK">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=ROK" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/FIFA20-MaterialImporter">
@@ -109,19 +133,5 @@
 <div align="center">
   <a href="https://github.com/Momentum96/Quasarbot">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Quasarbot" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Momentum96/MachineLearning">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=MachineLearning" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Momentum96/auto_nl_system">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=auto_nl_system" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Momentum96/Momentum96">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Momentum96" />
   </a>
 </div>
