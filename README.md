@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Momentum96&count_private=true&show_icons=true&theme=synthwave" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/?username=Momentum96&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momentum96&layout=compact&bg_color=2B213A&theme=dark" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momentum96&layout=compact&theme=dark" />
   </a>
 </div>
 
@@ -78,50 +78,50 @@
 
 <div align="center">
   <a href="https://github.com/Momentum96/ROK">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=ROK" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=ROK" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/WITLAB_CasStreamer">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=WITLAB_CasStreamer" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=WITLAB_CasStreamer" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Momentum96/Capstone">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=Capstone" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Capstone" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/FIFA20-MaterialImporter">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=FIFA20-MaterialImporter" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=FIFA20-MaterialImporter" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Momentum96/dfm-macro">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=dfm-macro" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=dfm-macro" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/starcraft-macro">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=starcraft-macro" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=starcraft-macro" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Momentum96/Quasarbot">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=Quasarbot" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Quasarbot" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/MachineLearning">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=MachineLearning" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=MachineLearning" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Momentum96/auto_nl_system">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=auto_nl_system" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=auto_nl_system" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Momentum96/Momentum96">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?bg_color=2B213A&theme=dark&username=Momentum96&repo=Momentum96" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Momentum96" />
   </a>
 </div>
