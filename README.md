@@ -2,7 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=50586C&height=150&section=header&text=>%20Geon%20Woo%20Jeon&fontSize=70&animation=fadeIn&fontColor=DCE2F0" />
 </div>
 
-<h3 align="center">BLOG : https://velog.io/@momentum96</h2>
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/geon-woo-jeon-57b7b8190/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  </a>
+  <a href="https://velog.io/@momentum96">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </a>
+  <a href="https://nt.aivillain.com">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+</h3>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -34,7 +45,7 @@
 </p>
 <br/>
 
-<p align="center"> Techs that I've experienced at least once or studying </p>
+<p align="center"> Techs that I've experienced </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
