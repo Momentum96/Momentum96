@@ -100,12 +100,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Momentum96/banf_sendreceive">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=banf_sendreceive" />
-  </a>
-</div>
-
 <br/>
 
 <h3 align="center">🦱 Personal 🧑‍🦱</h3>
