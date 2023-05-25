@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/geon-woo-jeon-57b7b8190/">
+  <a href="https://www.linkedin.com/in/gunrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
   <a href="https://velog.io/@momentum96">
