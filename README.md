@@ -95,9 +95,6 @@
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=auto_nl_system" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Momentum96/MachineLearning">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=MachineLearning" />
-  </a>
 </div>
 
 <br/>
@@ -127,5 +124,9 @@
 <div align="center">
   <a href="https://github.com/Momentum96/Quasarbot">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=Quasarbot" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Momentum96/MachineLearning">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Momentum96&repo=MachineLearning" />
   </a>
 </div>
