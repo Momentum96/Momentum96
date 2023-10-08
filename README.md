@@ -7,10 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
   <a href="https://velog.io/@momentum96">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-  </a>
-  <a href="https://nt.aivillain.com">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Tistory-FF7F00?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </h3>
 
