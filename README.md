@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/gunrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
-  <a href="https://velog.io/@momentum96">
+  <a href="https://blog.aivillain.com">
     <img src="https://img.shields.io/badge/Tistory-FF7F00?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </h3>
