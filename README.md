@@ -1,13 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=50586C&height=150&section=header&text=>%20Geon%20Woo%20Jeon&fontSize=70&animation=fadeIn&fontColor=DCE2F0" />
-</div>
-
 <h3 align="center">
   <a href="https://www.linkedin.com/in/gunrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
   <a href="https://blog.aivillain.com">
     <img src="https://img.shields.io/badge/Tistory-FF7F00?style=for-the-badge&logo=Tistory&logoColor=white">
+  </a>
+  <a href="https://obs.aivillain.com">
+    <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white">
   </a>
 </h3>
 
