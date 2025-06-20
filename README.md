@@ -12,18 +12,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Tire-Data-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=RoadClassification&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/Momentum96/Tire-Data-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Tire-Data-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <a href="https://github.com/Momentum96/RoadClassification"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=RoadClassification&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=ROK&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=dfm-macro&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/Momentum96/ROK"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=ROK&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <a href="https://github.com/Momentum96/dfm-macro"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=dfm-macro&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=starcraft-macro&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Quasarbot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/Momentum96/starcraft-macro"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=starcraft-macro&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <a href="https://github.com/Momentum96/Quasarbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Quasarbot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=FIFA20-MaterialImporter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Capstone&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/Momentum96/FIFA20-MaterialImporter"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=FIFA20-MaterialImporter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <a href="https://github.com/Momentum96/Capstone"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=Capstone&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=WITLAB_CasStreamer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=auto_nl_system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/Momentum96/WITLAB_CasStreamer"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=WITLAB_CasStreamer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+  <a href="https://github.com/Momentum96/auto_nl_system"><img src="https://github-readme-stats.vercel.app/api/pin?username=Momentum96&repo=auto_nl_system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 </div>
